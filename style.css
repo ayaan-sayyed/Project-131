@@ -1,0 +1,63 @@
+body {
+    background-color: yellow;
+}
+
+#bedroom {
+    font-weight: bold;
+    width: 30%;
+    height: 7%;
+    color: red;
+    border: 10px solid blue;
+    background-color: greenyellow;
+    font-size: 18px;
+}
+
+#TVANDAC {
+    font-weight: bold;
+    width: 30%;
+    height: 7%;
+    color: red;
+    border: 10px solid crimson;
+    background-color: greenyellow;
+    font-size: 18px;
+}
+
+#Desk {
+    font-weight: bold;
+    width: 30%;
+    height: 7%;
+    color: red;
+    border: 10px solid darkmagenta;
+    background-color: greenyellow;
+    font-size: 18px;
+}
+
+#Bottles {
+    font-weight: bold;
+    width: 30%;
+    height: 7%;
+    color: red;
+    border: 10px solid tomato;
+    background-color: greenyellow;
+    font-size: 18px;
+}
+
+#fruitbasket {
+    font-weight: bold;
+    width: 30%;
+    height: 7%;
+    color: red;
+    border: 10px solid blueviolet;
+    background-color: greenyellow;
+    font-size: 18px;
+}
+
+#back{
+color: cyan;
+width: 7%;
+height: 5%;
+float: right;
+font-size: 15px;
+background-color: magenta;
+font-weight: bolder;
+}
